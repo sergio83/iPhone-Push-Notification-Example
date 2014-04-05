@@ -5,7 +5,7 @@ Push Notification Demo
 
 Requirements
 ==============
-- iOS 6.1
+- iOS 7.1
 
 Licence
 ================
